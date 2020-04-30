@@ -5,5 +5,7 @@ public class GitHelloWorld {
 		
 		
 		System.out.println("Git Hello World!");
+		
+		System.out.println("yet another feature in feature_branch");
 	}
 }
